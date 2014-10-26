@@ -31,6 +31,7 @@ int main()
 
 	cout << iErgebnis ;
 	cout << "\n  Hallo Welt jetzt mit git";  //Console Output
+	cout << "\n  Am Lappi geändert";  //Console Output
 	getchar();
 
 	//Erfolgreich beendet
